@@ -1,0 +1,6 @@
+.historyListItem:hover {
+  background-color: #e0e0e0; /* Lighter grey for better visibility */
+  cursor: pointer;
+  transition: background-color 0.2s, box-shadow 0.2s;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow effect */
+}
