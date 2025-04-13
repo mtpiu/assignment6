@@ -1,17 +1,3 @@
-/*********************************************************************************
- * BTI425 – Assignment 6
- *
- * I declare that this assignment is my own work in accordance with Seneca&apos;s
- * Academic Integrity Policy:
- *
- * https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
- *
- * Name: Mimia Tabassum Piu
- * Student ID:  167782234
- * Date: April 13, 2025
- * Vercel App (Deployed) Link: 
- *
- ********************************************************************************/
 
 import { Container, Row, Col, Image } from "react-bootstrap";
 
@@ -51,7 +37,7 @@ export default function Home() {
           from ancient civilizations to modern contemporary works.
         </p>
         <p>
-          The museum's exhibits include masterpieces from European Old Masters, American and modern art, 
+          The museums exhibits include masterpieces from European Old Masters, American and modern art, 
           as well as significant collections of African, Asian, Oceanian, Islamic, and Byzantine artworks. 
           Beyond paintings and sculptures, the Met also features a vast array of musical instruments, textiles, 
           historical weapons, armor, and decorative arts from various cultures around the world.
